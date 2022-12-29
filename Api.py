@@ -1,7 +1,7 @@
 import requests
 
 n = input("Enter Your Number: ")
-a = int(input ("Enter Your Amount: "))
+a = int(input ("Enter Number of Amount: "))
 
 
 for i in range (a):
